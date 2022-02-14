@@ -1,0 +1,14 @@
+C:\Users\Joel\Desktop\regis student\Registro-Estudiante\Registro-Estudiante\bin\Debug\Registro-Estudiante.exe.config
+C:\Users\Joel\Desktop\regis student\Registro-Estudiante\Registro-Estudiante\obj\Debug\Registro-Estudiante.csprojResolveAssemblyReference.cache
+C:\Users\Joel\Desktop\regis student\Registro-Estudiante\Registro-Estudiante\obj\Debug\Registro_Estudiante.Properties.Resources.resources
+C:\Users\Joel\Desktop\regis student\Registro-Estudiante\Registro-Estudiante\obj\Debug\Registro-Estudiante.csproj.GenerateResource.Cache
+C:\Users\Joel\Desktop\regis student\Registro-Estudiante\Registro-Estudiante\bin\Debug\Registro-Estudiante.exe
+C:\Users\Joel\Desktop\regis student\Registro-Estudiante\Registro-Estudiante\bin\Debug\Registro-Estudiante.pdb
+C:\Users\Joel\Desktop\regis student\Registro-Estudiante\Registro-Estudiante\bin\Debug\capapresentacion.dll
+C:\Users\Joel\Desktop\regis student\Registro-Estudiante\Registro-Estudiante\bin\Debug\capanegocio.dll
+C:\Users\Joel\Desktop\regis student\Registro-Estudiante\Registro-Estudiante\bin\Debug\capadata.dll
+C:\Users\Joel\Desktop\regis student\Registro-Estudiante\Registro-Estudiante\bin\Debug\capapresentacion.pdb
+C:\Users\Joel\Desktop\regis student\Registro-Estudiante\Registro-Estudiante\bin\Debug\capanegocio.pdb
+C:\Users\Joel\Desktop\regis student\Registro-Estudiante\Registro-Estudiante\bin\Debug\capadata.pdb
+C:\Users\Joel\Desktop\regis student\Registro-Estudiante\Registro-Estudiante\obj\Debug\Registro-Estudiante.exe
+C:\Users\Joel\Desktop\regis student\Registro-Estudiante\Registro-Estudiante\obj\Debug\Registro-Estudiante.pdb

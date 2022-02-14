@@ -1,0 +1,5 @@
+C:\Users\Joel\Desktop\regis student\Registro-Estudiante\capadata\bin\Debug\capadata.dll
+C:\Users\Joel\Desktop\regis student\Registro-Estudiante\capadata\bin\Debug\capadata.pdb
+C:\Users\Joel\Desktop\regis student\Registro-Estudiante\capadata\obj\Debug\capadata.csprojResolveAssemblyReference.cache
+C:\Users\Joel\Desktop\regis student\Registro-Estudiante\capadata\obj\Debug\capadata.dll
+C:\Users\Joel\Desktop\regis student\Registro-Estudiante\capadata\obj\Debug\capadata.pdb

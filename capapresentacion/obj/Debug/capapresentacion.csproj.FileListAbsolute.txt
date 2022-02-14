@@ -1,0 +1,11 @@
+C:\Users\Joel\Desktop\regis student\Registro-Estudiante\capapresentacion\bin\Debug\capapresentacion.dll
+C:\Users\Joel\Desktop\regis student\Registro-Estudiante\capapresentacion\bin\Debug\capapresentacion.pdb
+C:\Users\Joel\Desktop\regis student\Registro-Estudiante\capapresentacion\bin\Debug\capanegocio.dll
+C:\Users\Joel\Desktop\regis student\Registro-Estudiante\capapresentacion\bin\Debug\capadata.dll
+C:\Users\Joel\Desktop\regis student\Registro-Estudiante\capapresentacion\bin\Debug\capanegocio.pdb
+C:\Users\Joel\Desktop\regis student\Registro-Estudiante\capapresentacion\bin\Debug\capadata.pdb
+C:\Users\Joel\Desktop\regis student\Registro-Estudiante\capapresentacion\obj\Debug\capapresentacion.csprojResolveAssemblyReference.cache
+C:\Users\Joel\Desktop\regis student\Registro-Estudiante\capapresentacion\obj\Debug\capapresentacion.Form1.resources
+C:\Users\Joel\Desktop\regis student\Registro-Estudiante\capapresentacion\obj\Debug\capapresentacion.csproj.GenerateResource.Cache
+C:\Users\Joel\Desktop\regis student\Registro-Estudiante\capapresentacion\obj\Debug\capapresentacion.dll
+C:\Users\Joel\Desktop\regis student\Registro-Estudiante\capapresentacion\obj\Debug\capapresentacion.pdb
